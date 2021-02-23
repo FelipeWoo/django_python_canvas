@@ -25,14 +25,22 @@
 
 # Some Examples:
 
-## Table of Content
+## [1. Calculator](#)
 
-### [1. Calculator](#)
+### Overview
 
-### [2. API Based Reporter](#)
+## [2. API Based Reporter](#)
 
-### [3. Web Scraping](#)
+### Overview
 
-### [4. Sentiment Analysis](#)
+## [3. Web Scraping](#)
 
-### [5. Django Integration](#)
+### Overview
+
+## [4. Sentiment Analysis](#)
+
+### Overview
+
+## [5. Django Integration](#)
+
+### Overview
